@@ -1,13 +1,6 @@
-name := "scala-starz"
-
-version := "0.1"
-
-scalaVersion := "2.13.1"
-
-// TODO
-// triggeredMessage := Watched.clearWhenTriggered
-
-autoStartServer := false
+name         := "scala-starz"
+version      := "0.1"
+scalaVersion := "2.13.8"
 
 scalacOptions ++= Seq(
   "-feature",

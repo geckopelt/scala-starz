@@ -1,4 +1,4 @@
-object Starz {
+object Main {
     def main(args: Array[String]) = {
         println("STUB")
     }
